@@ -28,7 +28,7 @@
     chC=abs(rand(SEED,3))./5;
     ```
 
-I'll put a simple process on my [bolg](www.kanvasesfan.com) in recent days.
+I'll put a simple process on my [bolg](http://www.kanvasesfan.me) in recent days.
 ![original image](image/47209.jpg)
 ![result image](result/47209.jpg)
 ![original image](image/ClaudeMonet.jpg)
